@@ -1,6 +1,7 @@
 # Geological-Image-Similarity
 An ML based solution to identify the k most similar images to a particular image of a stone.
 
+##Note to self : change the number of epochs to 50 in the notebook later
 
 The notebook is briefly divided into roughly 3 parts. (The 1st part is kinda not needed for the problem statement. Will update this part later.)
 
